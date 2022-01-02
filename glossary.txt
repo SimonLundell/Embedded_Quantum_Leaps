@@ -1,0 +1,23 @@
+Instructions:
+MOVS - Copys value from one place to another
+CMP - compare 2 values
+B.N - Branch instruction
+BLT.N - Conditional branch, modifies the PC register only if N bit in APSR is set.
+LDR.N - Loads from label (mem. address) to register
+LDR - Load value from address pointed to
+STR - Store value to address pointed to
+ADDS - Increment a value by another value
+
+Registers:
+APSR - Application Program State Register
+	N - Negative bit, e.g set to 1 if comparison false
+	Z -
+	C - 
+	V -
+	Q -
+PC - 
+R0-R14 - Contains data to work with
+
+Architectures:
+RISC - Reduced Instruction Set Computer - ARM etc.
+CISC - Complex Instruction Set Computer - PC etc.
