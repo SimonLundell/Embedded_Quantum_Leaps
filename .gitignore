@@ -58,3 +58,4 @@ dkms.conf
 *.ewt
 *.eww
 Debug/
+settings/
